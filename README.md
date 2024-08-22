@@ -43,4 +43,4 @@
 - Ваше имя (yourusername)
 
 ## Лицензия
-Частный проект By ©Kizimov 2024 год
+Автор Kizimov S.S. Contact: +77009115121
